@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "login" : "login",
+    "signup" : "sing up"
+  },
+  "convert": {
+    "text": "Text convert",
+    "number": "Number convert",
+    "date": "Date convert"
+  }
+}
